@@ -8,6 +8,15 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.printf("HOLA MUNDO");
         System.out.printf("NICOLAS DANIEL OSPINA BARRERA");
+        System.out.printf("NICOLAS DANIEL OSPINA BARRERA");
+        System.out.printf("NICOLAS DANIEL OSPINA BARRERA");
+        System.out.printf("NICOLAS DANIEL OSPINA BARRERA");
+        System.out.printf("NICOLAS DANIEL OSPINA BARRERA");
+        System.out.printf("NICOLAS DANIEL OSPINA BARRERA");
+        System.out.printf("NICOLAS DANIEL OSPINA BARRERA");
+        System.out.printf("NICOLAS DANIEL OSPINA BARRERA");
+        System.out.printf("NICOLAS DANIEL OSPINA BARRERA");
+
 
     }
 }
