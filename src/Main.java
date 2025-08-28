@@ -18,5 +18,9 @@ public class Main {
         System.out.println("git clone");
         System.out.println("git fetch");
         System.out.println("git switch");
+
+        System.out.println("git fectch -v - ramas remotas");
+        System.out.println("git switch -c - crear rama local");
+        System.out.println("git checkaut () - cambiar rama");
     }
 }
